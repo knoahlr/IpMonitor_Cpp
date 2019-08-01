@@ -1,0 +1,5 @@
+﻿  sessionsManager.cpp
+c:\users\noah workstation\desktop\p_pr_1\repo\ipmonitor_cpp\ipmonitor_cpp\sessionsmanager.cpp(145): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\noah workstation\desktop\p_pr_1\repo\ipmonitor_cpp\ipmonitor_cpp\sessionsmanager.cpp(145): warning C4309: 'initializing': truncation of constant value
+  IpMonitor_Cpp.cpp
+  IpMonitor_Cpp.vcxproj -> C:\Users\Noah Workstation\Desktop\P_PR_1\repo\IpMonitor_Cpp\x64\Debug\IpMonitor_Cpp.exe
